@@ -1,6 +1,6 @@
 
   {
-    "src/*.{js,jsx}": [
+    "src/*": [
       "eslint",
       "prettier --write",
       "eslint --fix",
